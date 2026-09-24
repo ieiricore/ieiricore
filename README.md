@@ -6,6 +6,8 @@
  <p align="center">  ══════════════════════════════════════════ </p>
 <p>
 
+ <p align="center">   C+h freely + Don't copy my skins. </p>
+<p>
 
 
 <p align="center">
@@ -17,8 +19,6 @@
 
 
 
- <p align="center">   >_< </p>
-<p>
 
 
 
@@ -29,8 +29,7 @@
 
 
 
- <p align="center">  don't copy my skins! feel free to take inspo though.  </p>
-<p>
+ 
 
 
 
